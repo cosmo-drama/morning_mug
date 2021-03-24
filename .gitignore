@@ -1,0 +1,6 @@
+**/logs
+**/logs/debug.log
+config.py
+__pycache__
+.vscode
+/venv

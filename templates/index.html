@@ -1,0 +1,98 @@
+{% extends 'layout.html'%}
+
+{% block content %}
+    {% set the_verge = data['the-verge'] %}
+    {% set vice_news = data['vicenews'] %}
+    {% set pitchfork = data['pitchfork'] %}
+    {% set ars = data['arstechnica'] %}
+    {% set wired = data['wired'] %}
+    {% set itsnicethat = data['itsnicethat'] %}
+<div class="container-fluid bg-dark">
+<nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-end mb-3 rounded">
+    <i class="fas fa-mug-hot me-2"></i>
+    <a href="#" class="navbar-brand" style="font-family: 'Roboto Mono', monospace;">morning mug.</a>
+</nav>
+<div class="container bg-light px-5 py-5 rounded">
+    <p class="fs-2" style="font-family: 'Roboto Mono', sans-serif; font-weight: 600;" >today's essentials:</p>
+    <div class="row">
+    {% for index, row in the_verge.iterrows() %}
+    
+            <div class="col-md-3 d-flex">
+                <div class="card border-light mb-3 text-center" style="width: 25rem;">
+                    <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5>
+                    </div>
+                </div>
+            </div>
+    {%endfor%}
+    </div>
+</div>
+
+<!-- <div>
+    {% for index, row in vice_news.iterrows() %}
+    
+        <h1>{{row['titles']}}</h1>
+        <a href="#">{{row['links']}}</a>
+        <img src="{{ row['images'] }}" alt="">
+    {%endfor%}
+</div> -->
+
+<div class="container bg-light px-5 py-5">
+    <div class="row">
+        {% for index, row in pitchfork.iterrows() %}
+        <div class="col-md-3 d-flex">
+            <div class="card border-light mb-3 text-center" style="width: 25rem;">
+                <img class="card-img-top" src="{{ row['images'] }}" alt="">
+                <div class="card-body">
+                    <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['links']}}">{{row['titles']}}</a></h5> 
+                </div>
+            </div>
+        </div>
+        {%endfor%}
+    </div>
+</div>
+
+<div class="container bg-light px-5 py-5">
+<div class="row">
+    {% for index, row in ars.iterrows() %}
+    <div class="col-md-3 d-flex">
+        <div class="card border-light mb-3 text-center" style="width: 25rem;">
+            <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
+            <div class="card-body">
+                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5> 
+            </div>
+        </div>
+    </div>  
+    {%endfor%}
+</div>
+</div>
+
+
+<div class="container bg-light px-5 py-5">
+<div class="row">
+    {% for index, row in wired.iterrows() %}
+    <div class="col-md-3 d-flex">
+        <div class="card border-light mb-3 text-center shadow" style="width: 25rem;">
+            <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
+            <div class="card-body">
+            <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5>
+            </div>
+        </div>   
+    </div>
+    {%endfor%}
+</div>
+</div>
+
+</div>
+<!-- <div>
+    {% for index, row in itsnicethat.iterrows() %}
+    
+        <h1>{{row['titles']}}</h1>
+        <a href="#">{{row['links']}}</a>
+        <img src="{{ row['images'] }}" alt="">
+    {%endfor%}
+</div> -->
+
+
+{% endblock content%}
