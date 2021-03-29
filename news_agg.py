@@ -1,6 +1,8 @@
-
+#! /home/sphinx/projects/morning_mug/venv/venv/bin/python3
 from flask import Flask, render_template
 from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+import time
+from datetime import datetime
 
 
 app = Flask(__name__)
@@ -24,3 +26,17 @@ def add_header(response):
     response.headers['Cache-Control'] = 'public, max-age=0'
 
     return response
+
+@app.cli.command()
+def scheduled():
+    """Run scheduled tasks."""
+    now = datetime.utcnow()
+    print(now)
+    print('Updating Database...')
+    print(the_verge)
+    print(wired)
+    print(ars_technica)
+    print(pitchfork)
+    print(vice)
+    time.sleep(5)
+    print('Done!')

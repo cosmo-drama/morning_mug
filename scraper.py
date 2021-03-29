@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import requests
 from bs4 import BeautifulSoup
 from newsapi import NewsApiClient
@@ -88,7 +89,14 @@ def nice_data(url, title_tag, link_tag, image_tag):
 
 
 def fetch_vice_data():
-    driver = webdriver.Chrome(executable_path='C:/Users/gaiters/Desktop/chromedriver.exe')
+    # driver = webdriver.Chrome('/usr/bin/chromedriver')
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--no-sandbox")
+
+    chrome_driver_location = "/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver"
+
+    driver = webdriver.Chrome(chrome_driver_location, options=chrome_options)
     driver.get('https://vice.com/en/section/news')
 
     driver.execute_script("window.scrollTo(0, 200000);")
@@ -197,13 +205,13 @@ pitchfork = {'titles': titles_p, 'links': links_p, 'images': images_p}
 itsnicethat = {'titles': titles_n, 'links': links_n, 'images': images_n}
 
 vice_data_df = pd.DataFrame.from_dict(vice, orient='index')
-vice_data_df = vice_data_df.transpose()
+vice_data_df = vice_data_df.transpose().dropna()
 
 pitchfork_df = pd.DataFrame.from_dict(pitchfork, orient='index')
-pitchfork_df = pitchfork_df.transpose()
+pitchfork_df = pitchfork_df.transpose().dropna()
 
 itsnicethat_df = pd.DataFrame.from_dict(itsnicethat, orient='index')
-itsnicethat_df = itsnicethat_df.transpose()
+itsnicethat_df = itsnicethat_df.transpose().dropna()
 
 # pd.set_option('display.max_columns', None)
 # pd.set_option('display.max_rows', None)
@@ -214,4 +222,4 @@ itsnicethat_df = itsnicethat_df.transpose()
 # print('\n\n')
 # print(itsnicethat_df)
 # print('\n\n')
-# print(vice_data_df)
+# print(vice_data_df.dropna())

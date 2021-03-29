@@ -1,0 +1,2799 @@
+/bin/sh: 1: venv/bin/flask: not found
+/bin/sh: 1: venv/bin/flask: not found
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'flask'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'flask'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+
+  A general utility script for Flask applications.
+
+  Provides commands from Flask, extensions, and the application. Loads the
+  application defined in the FLASK_APP environment variable, or from a
+  wsgi.py file. Setting the FLASK_ENV environment variable to 'development'
+  will enable debug mode.
+
+    $ export FLASK_APP=hello.py
+    $ export FLASK_ENV=development
+    $ flask run
+
+Options:
+  --version  Show the flask version
+  --help     Show this message and exit.
+
+Commands:
+  routes  Show the routes for the app.
+  run     Run a development server.
+  shell   Run a shell in the app context.
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 556, in list_commands
+    rv.update(info.load_app().cli.list_commands(ctx))
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 398, in load_app
+    raise NoAppException(
+flask.cli.NoAppException: Could not locate a Flask application. You did not provide the "FLASK_APP" environment variable, and a "wsgi.py" or "app.py" module was not found in the current directory.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+
+  A general utility script for Flask applications.
+
+  Provides commands from Flask, extensions, and the application. Loads the
+  application defined in the FLASK_APP environment variable, or from a
+  wsgi.py file. Setting the FLASK_ENV environment variable to 'development'
+  will enable debug mode.
+
+    $ export FLASK_APP=hello.py
+    $ export FLASK_ENV=development
+    $ flask run
+
+Options:
+  --version  Show the flask version
+  --help     Show this message and exit.
+
+Commands:
+  routes  Show the routes for the app.
+  run     Run a development server.
+  shell   Run a shell in the app context.
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 556, in list_commands
+    rv.update(info.load_app().cli.list_commands(ctx))
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 398, in load_app
+    raise NoAppException(
+flask.cli.NoAppException: Could not locate a Flask application. You did not provide the "FLASK_APP" environment variable, and a "wsgi.py" or "app.py" module was not found in the current directory.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'flask'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'flask'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'flask'.
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin/activate: Permission denied
+/bin/sh: 1: venv/venv/bin/activate: Permission denied
+/bin/sh: 1: venv/venv/bin/: Permission denied
+/bin/sh: 1: venv/venv/bin/: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+/bin/sh: 1: venv/venv/bin: Permission denied
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+Usage: flask [OPTIONS] COMMAND [ARGS]...
+Try 'flask --help' for help.
+
+Error: No such command 'scheduled'.
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 178, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 91, in fetch_vice_data
+    driver = webdriver.Chrome('/usr/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: './home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('./home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 72, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "/usr/lib/python3.8/subprocess.py", line 854, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1702, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: './home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('./home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/common/service.py", line 81, in start
+    raise WebDriverException(
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 179, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 92, in fetch_vice_data
+    driver = webdriver.Chrome('/home/sphinx/projects/morning_mug/venv/venv/bin/chromedriver')
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome(chrome_driver_location)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome(chrome_driver_location)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome(chrome_driver_location)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 180, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 93, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 182, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 95, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+Traceback (most recent call last):
+  File "venv/venv/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 967, in main
+    cli.main(args=sys.argv[1:], prog_name="python -m flask" if as_module else None)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 586, in main
+    return super(FlaskGroup, self).main(*args, **kwargs)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1254, in invoke
+    cmd_name, cmd, args = self.resolve_command(ctx, args)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/click/core.py", line 1297, in resolve_command
+    cmd = self.get_command(ctx, cmd_name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 542, in get_command
+    rv = info.load_app().cli.get_command(ctx, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 388, in load_app
+    app = locate_app(self, import_name, name)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/flask/cli.py", line 240, in locate_app
+    __import__(module_name)
+  File "/home/sphinx/projects/morning_mug/news_agg.py", line 3, in <module>
+    from init_db import vice, itsnicethat, pitchfork, the_verge, wired, ars_technica
+  File "/home/sphinx/projects/morning_mug/init_db.py", line 3, in <module>
+    from scraper import vice_data_df, itsnicethat_df, pitchfork_df, the_verge_df, ars_df, wired_df
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 182, in <module>
+    vice_data = fetch_vice_data()
+  File "/home/sphinx/projects/morning_mug/scraper.py", line 95, in fetch_vice_data
+    driver = webdriver.Chrome()
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/chrome/webdriver.py", line 76, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/sphinx/projects/morning_mug/venv/venv/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+2021-03-26 19:54:47.400218
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+2021-03-26 19:55:50.086380
+Updating Database...
+Done!
+Fetching Database...
+Data:
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+8       8  ...  https://media.pitchfork.com/photos/605e3236743...
+9       9  ...  https://media.pitchfork.com/photos/605e3304bd0...
+10     10  ...  https://media.pitchfork.com/photos/605e15e3d90...
+11     11  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+12     12  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+13     13  ...  https://media.pitchfork.com/photos/605e0e066a7...
+
+[14 rows x 4 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+database updated
+2021-03-26 19:56:46.384692
+Updating Database...
+Done!
+2021-03-26 20:09:51.931411
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:10:50.270684
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:11:47.706492
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:12:50.039898
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:13:46.888050
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:14:57.836105
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
+2021-03-26 20:15:48.769629
+Updating Database...
+   index             author  ...  source.id source.name
+0      0         Jay Peters  ...  the-verge   The Verge
+1      1  Andrew J. Hawkins  ...  the-verge   The Verge
+2      2      Adi Robertson  ...  the-verge   The Verge
+3      3         Jay Peters  ...  the-verge   The Verge
+4      4   Cameron Faulkner  ...  the-verge   The Verge
+5      5         Sam Byford  ...  the-verge   The Verge
+6      6         Tom Warren  ...  the-verge   The Verge
+7      7         Jon Porter  ...  the-verge   The Verge
+8      8         Jon Porter  ...  the-verge   The Verge
+9      9         Tom Warren  ...  the-verge   The Verge
+
+[10 rows x 10 columns]
+   index author  ... source.id source.name
+0      0  Wired  ...     wired       Wired
+1      1  Wired  ...     wired       Wired
+2      2  Wired  ...     wired       Wired
+3      3  Wired  ...     wired       Wired
+4      4  Wired  ...     wired       Wired
+5      5  Wired  ...     wired       Wired
+6      6  Wired  ...     wired       Wired
+7      7  Wired  ...     wired       Wired
+8      8  Wired  ...     wired       Wired
+9      9  Wired  ...     wired       Wired
+
+[10 rows x 10 columns]
+   index              author  ...     source.id   source.name
+0      0          Dan Goodin  ...  ars-technica  Ars Technica
+1      1  Jennifer Ouellette  ...  ars-technica  Ars Technica
+2      2          Jim Salter  ...  ars-technica  Ars Technica
+3      3         Samuel Axon  ...  ars-technica  Ars Technica
+4      4          Ron Amadeo  ...  ars-technica  Ars Technica
+5      5         Eric Berger  ...  ars-technica  Ars Technica
+6      6         Kyle Orland  ...  ars-technica  Ars Technica
+7      7        Tim De Chant  ...  ars-technica  Ars Technica
+8      8         John Timmer  ...  ars-technica  Ars Technica
+9      9  Jonathan M. Gitlin  ...  ars-technica  Ars Technica
+
+[10 rows x 10 columns]
+    index  ...                                             images
+0       0  ...  https://media.pitchfork.com/photos/605a4663395...
+1       1  ...  https://media.pitchfork.com/photos/6026d63aec3...
+2       2  ...  https://media.pitchfork.com/photos/603fb20f52e...
+3       3  ...  https://media.pitchfork.com/photos/602bd800309...
+4       4  ...  https://media.pitchfork.com/photos/600eeac9f77...
+5       5  ...  https://media.pitchfork.com/photos/605a49dff52...
+6       6  ...  https://media.pitchfork.com/photos/6059f8bb943...
+7       7  ...  https://media.pitchfork.com/photos/605deb3d3b3...
+8       8  ...  https://media.pitchfork.com/photos/605dfed1aa5...
+9       9  ...  https://media.pitchfork.com/photos/605e02b5c2a...
+10     10  ...  https://media.pitchfork.com/photos/605ddf533b3...
+11     11  ...  https://media.pitchfork.com/photos/605e3236743...
+12     12  ...  https://media.pitchfork.com/photos/605e3304bd0...
+13     13  ...  https://media.pitchfork.com/photos/605e15e3d90...
+
+[14 rows x 4 columns]
+    index  ...                                             images
+0       0  ...  https://video-images.vice.com/articles/605b235...
+1       1  ...  https://video-images.vice.com/_uncategorized/1...
+2       2  ...  https://video-images.vice.com/_uncategorized/1...
+3       3  ...  https://video-images.vice.com/_uncategorized/1...
+4       4  ...  https://video-images.vice.com/_uncategorized/1...
+5       5  ...  https://video-images.vice.com/_uncategorized/1...
+6       6  ...  https://video-images.vice.com/_uncategorized/1...
+7       7  ...  https://video-images.vice.com/articles/605dfbc...
+8       8  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+9       9  ...  https://video-images.vice.com/articles/605dff3...
+10     10  ...  https://video-images.vice.com/articles/605de21...
+11     11  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+12     12  ...  https://video-images.vice.com/articles/605de80...
+13     13  ...  https://video-images.vice.com/articles/605cf26...
+14     14  ...  https://video-images.vice.com/articles/605dc67...
+15     15  ...  https://video-images.vice.com/articles/605d043...
+16     16  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+17     17  ...  https://video-images.vice.com/articles/605ce12...
+18     18  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+19     19  ...  https://video-images.vice.com/articles/605cd3b...
+20     20  ...  data://image/png;base64,iVBORw0KGgoAAAANSUhEUg...
+
+[21 rows x 4 columns]
+Done!
