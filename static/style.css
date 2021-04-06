@@ -1,17 +1,13 @@
 .card:hover, .card:hover a{
-    /* background-color:#37394f; */
-    color: #c4bfdc;
+    color: #37394f;
 }
 
 .card-title a{
-    color: #37394f;
+    color: #eee4e8;
     font-weight: 600;
     font-family: 'Roboto Mono', 'sans-serif';
     text-transform: lowercase;
 }
-/* .card-body:hover a{
-    color: #eee;
-} */
 
 .card-body {
     background-color: #8d88a4;

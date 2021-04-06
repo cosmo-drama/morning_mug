@@ -43,17 +43,3 @@ for source in sources:
     source_content = fetch_data(source)
     save_data(source_content)
 
-### this is how to access each individual articles title, description, link, image. 
-## to be used on jinja template
-
-# print(pitchfork_json['articles'])
-# loaded = json.loads(pitchfork_json)
-# print(loaded['articles'])
-# loaded_articles = loaded['articles']
-# for i in loaded_articles:
-#     print(i['title'])
-#     print(i['description'])
-#     print(i['url'])
-#     print(i['urlToImage'])
-#     print('\n')
-# print(type(loaded))
