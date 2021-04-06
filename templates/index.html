@@ -1,98 +1,157 @@
 {% extends 'layout.html'%}
 
 {% block content %}
-    {% set the_verge = data['the-verge'] %}
-    {% set vice_news = data['vicenews'] %}
-    {% set pitchfork = data['pitchfork'] %}
-    {% set ars = data['arstechnica'] %}
-    {% set wired = data['wired'] %}
-    {% set itsnicethat = data['itsnicethat'] %}
+    {% set the_verge = data['The Verge.json']['articles'] %}
+    {% set ap = data['Associated Press.json']['articles'] %}
+    {% set pitchfork = data['Pitchfork.json']['articles'] %}
+    {% set nasa = data['NASA.json']['articles'] %}
+    {% set wired = data['Wired.json']['articles'] %}
+    {% set itsnicethat = data['Itsnicethat.com.json']['articles'] %}
+    {% set ny_mag = data['New York Magazine.json']['articles'] %}
+    {% set the_atlantic = data['The Atlantic.json']['articles'] %}
+    {% set wsj = data['The Wall Street Journal.json']['articles'] %}
+    {% set vox_media = data['Vox.json']['articles'] %}
 <div class="container-fluid bg-dark">
-<nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-end mb-3 rounded">
-    <i class="fas fa-mug-hot me-2"></i>
-    <a href="#" class="navbar-brand" style="font-family: 'Roboto Mono', monospace;">morning mug.</a>
+<nav class="navbar navbar-expand-lg justify-content-end mb-3 rounded">
+    <i class="fas fa-mug-hot me-2" style="color: #c4bfdc;"></i>
+    <a href="#" class="navbar-brand" style="font-family: 'Roboto Mono', monospace; color: #c4bfdc;">morning mug.</a>
 </nav>
-<div class="container bg-light px-5 py-5 rounded">
-    <p class="fs-2" style="font-family: 'Roboto Mono', sans-serif; font-weight: 600;" >today's essentials:</p>
+<div class="container px-5 py-5 rounded">
+    <p class="fs-2" style="font-family: 'Roboto Mono', sans-serif; font-weight: 600; color: #37394f;" >today's essentials:</p>
     <div class="row">
-    {% for index, row in the_verge.iterrows() %}
-    
-            <div class="col-md-3 d-flex">
-                <div class="card border-light mb-3 text-center" style="width: 25rem;">
-                    <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
+    {% for i in the_verge %}
+            <div class="col mx-auto mb-4">
+                <div class="card border-secondary mb-3 text-center">
+                    <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
                     <div class="card-body">
-                        <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5>
+                        <h5 class="card-title"><a style="text-decoration: none; font-family: 'Roboto Mono', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
                     </div>
                 </div>
             </div>
     {%endfor%}
     </div>
-</div>
 
-<!-- <div>
-    {% for index, row in vice_news.iterrows() %}
-    
-        <h1>{{row['titles']}}</h1>
-        <a href="#">{{row['links']}}</a>
-        <img src="{{ row['images'] }}" alt="">
-    {%endfor%}
-</div> -->
-
-<div class="container bg-light px-5 py-5">
     <div class="row">
-        {% for index, row in pitchfork.iterrows() %}
-        <div class="col-md-3 d-flex">
-            <div class="card border-light mb-3 text-center" style="width: 25rem;">
-                <img class="card-img-top" src="{{ row['images'] }}" alt="">
-                <div class="card-body">
-                    <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['links']}}">{{row['titles']}}</a></h5> 
+        {% for i in the_atlantic %}
+                <div class="col mb-4 mx-auto mb-4">
+                    <div class="card border-secondary mb-3 text-center">
+                        <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
         {%endfor%}
-    </div>
-</div>
-
-<div class="container bg-light px-5 py-5">
-<div class="row">
-    {% for index, row in ars.iterrows() %}
-    <div class="col-md-3 d-flex">
-        <div class="card border-light mb-3 text-center" style="width: 25rem;">
-            <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
-            <div class="card-body">
-                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5> 
-            </div>
         </div>
-    </div>  
-    {%endfor%}
-</div>
-</div>
-
-
-<div class="container bg-light px-5 py-5">
-<div class="row">
-    {% for index, row in wired.iterrows() %}
-    <div class="col-md-3 d-flex">
-        <div class="card border-light mb-3 text-center shadow" style="width: 25rem;">
-            <img class="card-img-top" src="{{row['urlToImage']}}" alt="">
-            <div class="card-body">
-            <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{row['url']}}">{{row['title']}}</a></h5>
-            </div>
-        </div>   
-    </div>
-    {%endfor%}
-</div>
-</div>
-
-</div>
-<!-- <div>
-    {% for index, row in itsnicethat.iterrows() %}
     
-        <h1>{{row['titles']}}</h1>
-        <a href="#">{{row['links']}}</a>
-        <img src="{{ row['images'] }}" alt="">
-    {%endfor%}
-</div> -->
+        <div class="row">
+            {% for i in ap %}
+                    <div class="col mb-4 mx-auto mb-4">
+                        <div class="card border-secondary mb-3 text-center">
+                            <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                            </div>
+                        </div>
+                    </div>
+            {%endfor%}
+            </div>
+        
+            <div class="row">
+                {% for i in pitchfork %}
+                        <div class="col mb-4 mx-auto mb-4">
+                            <div class="card border-secondary mb-3 text-center">
+                                <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                <div class="card-body">
+                                    <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                {%endfor%}
+                </div>
+            
+                <div class="row">
+                    {% for i in nasa %}
+                            <div class="col mb-4 mx-auto mb-4">
+                                <div class="card border-secondary mb-3 text-center">
+                                    <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                    <div class="card-body">
+                                        <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                    {%endfor%}
+                    </div>
+                
+                    <div class="row">
+                        {% for i in wired %}
+                                <div class="col mb-4 mx-auto mb-4">
+                                    <div class="card border-secondary mb-3 text-center">
+                                        <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                        <div class="card-body">
+                                            <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                        </div>
+                                    </div>
+                                </div>
+                        {%endfor%}
+                    </div>
 
+                    <div class="row">
+                        {% for i in itsnicethat %}
+                                <div class="col mb-4 mx-auto mb-4">
+                                    <div class="card border-secondary mb-3 text-center">
+                                        <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                        <div class="card-body">
+                                            <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                        </div>
+                                    </div>
+                                </div>
+                        {%endfor%}
+                        </div>
+                    
+                        <div class="row">
+                            {% for i in ny_mag %}
+                                    <div class="col mx-auto mb-4">
+                                        <div class="card border-secondary mb-3 text-center">
+                                            <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                            <div class="card-body">
+                                                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                            {%endfor%}
+                        </div>
+
+                        <div class="row">
+                            {% for i in wsj %}
+                                    <div class="col mx-auto mb-4">
+                                        <div class="card border-secondary mb-3 text-center">
+                                            <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                            <div class="card-body">
+                                                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                            {%endfor%}
+                        </div>
+
+                        <div class="row">
+                            {% for i in vox_media %}
+                                    <div class="col mx-auto mb-4">
+                                        <div class="card border-secondary mb-3 text-center">
+                                            <img class="card-img-top" src="{{i['urlToImage']}}" alt="">
+                                            <div class="card-body">
+                                                <h5 class="card-title"><a style="text-decoration: none; font-family: 'Open Sans', sans-serif;" href="{{i['url']}}">{{i['title']}}</a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                            {%endfor%}
+                            </div>
+
+                            <div class="text-center">
+                                <i class="fas fa-mug-hot fa-2x" style="color: #37394f;"></i>
+                            </div>
+
+</div>
 
 {% endblock content%}

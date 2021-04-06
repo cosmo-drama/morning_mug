@@ -1,11 +1,26 @@
 .card:hover, .card:hover a{
-    background-color:#212529;
-    color: #eee;
+    /* background-color:#37394f; */
+    color: #c4bfdc;
 }
 
 .card-title a{
-    color: #212529;
+    color: #37394f;
+    font-weight: 600;
+    font-family: 'Roboto Mono', 'sans-serif';
+    text-transform: lowercase;
 }
 /* .card-body:hover a{
     color: #eee;
 } */
+
+.card-body {
+    background-color: #8d88a4;
+}
+.container-fluid{
+    background: linear-gradient( #37394f, #8d88a4);
+}
+
+.container {
+    background: #c4bfdc;
+}
+
